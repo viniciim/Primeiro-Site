@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
